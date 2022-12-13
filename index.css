@@ -1,0 +1,111 @@
+.great-grand-parent {
+    background-color: blueviolet;
+    padding: 20px;
+    
+}
+
+/* this is navigation */
+.main-nav {
+    background-color: #333;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.nav-list{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    font-size: 50px;
+    color: yellow;
+    text-decoration: line-through;
+    padding-right: 15rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.jane-name {
+    font-size: 50px;
+    font-style: italic;
+}
+.jane-p {
+    font-size: 20px;
+}
+
+
+.grand-parent1 {
+    display: flex;
+    flex-direction: flex row;
+}
+
+.jane-image {
+    width: 500px;
+    background-color: blue;
+    border-radius: 50%;
+
+}
+
+.jane-contact {
+    font-size: 20px;
+    background-color:  red;
+    color: white;
+    font-size: 1.4rem;
+    padding: 1rem  5rem;
+    
+    
+}
+
+
+
+
+
+
+
+
+/* Media Query */
+
+@media screen and (max-width:500px){
+    body{
+        background-color: black;
+        color: #fff;
+    }
+    
+    
+    
+    }
+    
+
+
+
+
+
+
+
+
+
+/* Media Query */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
